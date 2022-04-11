@@ -1,6 +1,6 @@
-## todoistのタスク取得ツール
+## todoist(todoist.com)のタスク取得ツール
 
-todoistのAPIを使って、登録したタスクをCSVで出力します。
+todoistには登録したタスクを出力する機能が標準でなかったため、APIを使ってCSVで出力します。
 
 * todoist_output_project.py
   * プロジェクトIDと名前を出力します。
